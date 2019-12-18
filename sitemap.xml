@@ -170,6 +170,9 @@
     <image:image>
       <image:loc>http://bsp.com/images/logo%20side-crop-u239.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://bsp.com/images/accountancy_00126.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://bsp.com/btech-cse.html</loc>
